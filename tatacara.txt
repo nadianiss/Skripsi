@@ -1,0 +1,5 @@
+1. disable check login
+2. explore tentang jquery ajax
+3. tambah input no meja nama nomor hp saat pesanan
+4. explore dinamic navbar
+5. database ditambahi field nomor meja, nama, nomor hp tabel pemesanan 
